@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prasanthi307
+- 👋 Hi, I’m prasanthi
 - 👀 I’m interested in ...data analytics
 - 🌱 I’m currently learning ...data analytics course
 - 💞️ I’m looking to collaborate on ...start up companies as a data analyst
